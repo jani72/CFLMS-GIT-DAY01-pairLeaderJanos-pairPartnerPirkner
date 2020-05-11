@@ -1,2 +1,6 @@
 Das ist die erste Zeile von Andreas
+<<<<<<< HEAD
 das ist die zweite Zeile von Andreas
+=======
+Zweite Zeile von Jürgen
+>>>>>>> baf9daeee96e8dd02e69a3092f4c77bbe29b0759
